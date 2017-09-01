@@ -31,6 +31,11 @@ about:
   license: BSD 3-Clause
   license_file: LICENSE
   summary: A Launcher for JupyterLab based applications.
+  description: |
+    Launch an application built using JupyterLab
+  doc_url: 
+  dev_url: http://github.com/jupyterlab/jupyterlab_launcher
+  doc_source_url: 
 
 extra:
   recipe-maintainers:
